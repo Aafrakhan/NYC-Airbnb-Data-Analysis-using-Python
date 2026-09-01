@@ -9,7 +9,7 @@ This project cleans a raw NYC Airbnb listings dataset and explores:
 
 - How are listing prices distributed, and does room type actually affect price?
 - Which boroughs have the most listings, and how does that relate to price?
-- What do review patterns over time reveal — including possible data quality issues?
+- What do review patterns over time reveal including possible data quality issues?
 - Does host identity verification relate to price or reviews?
 
 ## Dataset

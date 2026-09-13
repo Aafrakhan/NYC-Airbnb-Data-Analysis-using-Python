@@ -1,4 +1,4 @@
-# NYC Airbnb Market Analysis — EDA
+# NYC Airbnb Market Analysis 
 
 An exploratory data analysis of ~102,000 NYC Airbnb listings, looking at pricing, room types, borough trends, and review activity over time.
 
